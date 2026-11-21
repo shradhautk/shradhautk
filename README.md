@@ -24,7 +24,7 @@ When models fake the math, and when they admit they can't.
 
 **A Comparative Study of PDF Parsing Tools Across Diverse Document Categories** (arXiv, 2024; 81 citations)
 Ten PDF parsing tools across six document categories, for RAG pipelines. With N. S. Adhikari.
-[Paper](https://arxiv.org/abs/2410.09871)
+[Paper](https://arxiv.org/abs/2410.09871) · [Code](https://github.com/shradhautk/pdf-parsing-tools-comparative-study)
 
 ## AI systems I built
 
