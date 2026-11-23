@@ -9,7 +9,7 @@ I study where and why large language models fail at math, and whether we can tru
 
 **Evaluation · LinAlg-Bench: When LLMs Stop Computing (extended version, under review, 2026)**
 Nearly 1,200 SymPy-verified problems across nine task types (3×3–5×5), ten frontier models, over 11,000 graded outputs, stable across three complete runs. Models near ceiling on shallow tasks collapse on 5×5 eigenvalues; fabricated eigenvalues still match the trace in nearly half of cases; depth-of-state, not operation count, is the bottleneck.
-[Paper](https://openreview.net/forum?id=sgqV4je95N) · [Code](https://github.com/shradhautk/linalg-bench-llms-and-maths)
+[Paper at Neurips Math-AI](https://openreview.net/forum?id=sgqV4je95N) · [Code](https://github.com/shradhautk/linalg-bench-llms-and-maths)
 
 **Evaluation · LinAlg-Bench: Where Models Stop Computing and Start Hallucinating** (MATH-AI Workshop @ NeurIPS 2026)
 First version: 660 SymPy-verified problems, ten frontier models, 6,600 outputs, a three-stage forensic pipeline that tags the root cause of each of 1,156 failures.
