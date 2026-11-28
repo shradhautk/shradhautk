@@ -8,7 +8,7 @@ I study where and why large language models fail at math, and whether we can tru
 ## LLM research: evaluation and interpretability
 
 **Evaluation · LinAlg-Bench: Where Models Stop Computing and Start Hallucinating** (MATH-AI Workshop @ NeurIPS 2026)\
-660 SymPy-verified problems, ten frontier models, 6,600 outputs, and a three-stage forensic pipeline that tags the root cause of each of 1,156 failures. An extended version (nearly 1,200 problems, nine task types) is in preparation.\
+660 SymPy-verified problems, ten frontier models, 6,600 outputs, and a three-stage forensic pipeline that tags the root cause of each of 1,156 failures. An extended version (nearly 1,200 problems across the same nine task types) is in preparation.\
 [Paper](https://openreview.net/forum?id=fzVJyQ33Td) · [arXiv](https://arxiv.org/abs/2605.16675) · [Code](https://github.com/shradhautk/linalg-bench-math-ai-neurips) · [Code (extended version)](https://github.com/shradhautk/linalg-bench-llms-and-maths) · [Dataset](https://huggingface.co/datasets/LinAlgBench/linalg-bench)
 
 **Interpretability · Localization Does Not Imply Steerability: A Mechanistic Study of Sign Errors in LLM Mathematics** (preprint, 2026)\
@@ -32,7 +32,7 @@ N. S. Adhikari, **S. Agarwal**. Ten PDF parsing tools across six document catego
 
 **S. Agarwal et al.** [Comparing U-Net and Mask R-CNN algorithms for deep learning-based segmentation of electron microscopy images containing cavities for nuclear reactor applications](https://ieeexplore.ieee.org/abstract/document/10252280/). IEEE ICECCME, 2023.
 
-- Object detection: [YOLO v4–v7 comparison for helium bubbles in TEM](https://github.com/shradhautk/YOLO-Versions-1to7-Comparison-for-Helium-Induced-Bubble-Detection-in-TEM-Micrographs)
+- Object detection: [YOLO v1–v7 comparison for helium bubbles in TEM](https://github.com/shradhautk/YOLO-Versions-1to7-Comparison-for-Helium-Induced-Bubble-Detection-in-TEM-Micrographs)
 - Tracking: [Helium-bubble video tracking with Mask R-CNN](https://github.com/shradhautk/He-Bubble-Video-Tracking)
 - Segmentation losses: [Five loss functions compared (IoU, Dice, BCE, WBCE, distance)](https://github.com/shradhautk/Comparing-five-loss-functions-IOU-DiCE-BCE-WBCE-Distance)
 - Generative models: [Dislocation-loop analysis with VAEs](https://github.com/shradhautk/Dislocation-Loop-Analysis-through-Generative-AI-Leveraging-Variational-Autoencoders)
